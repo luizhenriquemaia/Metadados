@@ -1,2 +1,2 @@
-# Metadados
-Software for setting metadados
+# Metadata
+Software for setting metadata
